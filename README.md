@@ -29,5 +29,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 -Alejandro Alvarez Jimenez-a.alvarezj@uniandes.edu.co-202020208
 
+
 -Miguel Sandoval Cardozo-m.sandovalc@uniandes.edu.co-201923157
 
